@@ -1,0 +1,12 @@
+table,th,tr,td{
+    border-collapse: collapse;
+    border: 2px solid;
+    width: 20px;
+    padding: 20px ;
+}
+.container{
+  margin-left:30%;  
+}
+.center{
+    margin-left: 18%;
+}
